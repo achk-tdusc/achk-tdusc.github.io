@@ -30,4 +30,16 @@
       <changefreq>yearly</changefreq>
       <priority>0.5</priority>
    </url>
+   <url>
+      <loc>https://www.youtube.com/embed/j9zL-tKG2Io?si=zVCIlznoNeCD6fNw</loc>
+      <lastmod>2024-09-08</lastmod>
+      <changefreq>never</changefreq>
+      <priority>0.4</priority>
+   </url>
+   <url>
+      <loc>https://i.ytimg.com/vi/j9zL-tKG2Io/mqdefault.jpg</loc>
+      <lastmod>2024-09-08</lastmod>
+      <changefreq>never</changefreq>
+      <priority>0.4</priority>
+   </url>
 </urlset>
